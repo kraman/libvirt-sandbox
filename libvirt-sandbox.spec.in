@@ -126,6 +126,5 @@ rm -rf $RPM_BUILD_ROOT
 %{_includedir}/libvirt-sandbox-1.0/libvirt-sandbox/libvirt-sandbox.h
 %{_includedir}/libvirt-sandbox-1.0/libvirt-sandbox/libvirt-sandbox-*.h
 %{_datadir}/gir-1.0/LibvirtSandbox-1.0.gir
-%{_datadir}/gtk-doc/html/Libvirt-sandbox
 
 %changelog
